@@ -1,0 +1,16 @@
+{
+  "name": "modular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "mustache": "^3.0.0",
+    "parcel": "^1.10.3"
+  }
+}
